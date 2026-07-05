@@ -99,11 +99,13 @@ This project is part of my **FP&A Casebook**, a portfolio of real-world finance 
 
 ---
 
-Author
-Apurvi Bajpai US CMA | B.COM Graduate
+## Author
+
+**Apurvi Bajpai** 
+US CMA | B.COM Graduate
 
 Aspiring FP&A & Financial Analyst
 
-LinkedIn: https://www.linkedin.com/in/apurvi-bajpai/
+LinkedIn: *https://www.linkedin.com/in/apurvi-bajpai/*
 
-GitHub: https://github.com/apurvibajpai7
+GitHub: *https://github.com/apurvibajpai7*
