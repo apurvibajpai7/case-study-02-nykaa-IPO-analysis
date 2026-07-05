@@ -49,13 +49,13 @@ The analysis was performed using publicly available annual reports and focuses o
 
 ## Dashboard Preview
 
-![Dashboard](Screenshots/Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
 ## Conclusion Preview
 
-![Conclusion](Screenshots/Conclusion.png)
+![Conclusion](Conclusion.png)
 
 ---
 
