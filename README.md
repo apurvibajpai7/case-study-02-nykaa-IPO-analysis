@@ -96,3 +96,14 @@ Based on this analysis, I concluded that **Nykaa has partially justified its pre
 ## About Casebook
 
 This project is part of my **FP&A Casebook**, a portfolio of real-world finance case studies designed to demonstrate practical skills in Financial Planning & Analysis (FP&A), financial modeling, business analysis, and executive reporting.
+
+---
+
+Author
+Apurvi Bajpai US CMA | B.COM Graduate
+
+Aspiring FP&A & Financial Analyst
+
+LinkedIn: https://www.linkedin.com/in/apurvi-bajpai/
+
+GitHub: https://github.com/apurvibajpai7
