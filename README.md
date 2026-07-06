@@ -28,6 +28,7 @@ The analysis was performed using publicly available annual reports and focuses o
 ## Tools Used
 
 - Microsoft Excel
+- Microsoft Word
 - Financial Statement Analysis
 - Ratio Analysis
 - Trend Analysis
