@@ -50,7 +50,7 @@ The analysis was performed using publicly available annual reports and focuses o
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard](912c39a2758bfd62e1375a986b382235a3771dab)
 
 ---
 
